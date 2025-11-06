@@ -1,4 +1,4 @@
-# TraCe
+# [NeurIPS 2025 🎉] Official repo for "Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation"
 
 ## 🚀 Get Started
 ### **Installation**
