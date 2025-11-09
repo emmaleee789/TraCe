@@ -1,5 +1,7 @@
 # [NeurIPS 2025 🎉] Official repo for "Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation"
 
+## [Paper](https://openreview.net/pdf/cbd774fb221ea45dd918c48bbc278a4612176548.pdf) 
+
 ## 🚀 Get Started
 ### **Installation**
 Install [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [Shap-E](https://github.com/openai/shap-e#usage) as fellow:
