@@ -1,6 +1,6 @@
 # [NeurIPS 2025 🎉] Official repo for "Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation"
 
-## [Paper](https://openreview.net/pdf/cbd774fb221ea45dd918c48bbc278a4612176548.pdf) 
+## [Paper📖](https://openreview.net/pdf/cbd774fb221ea45dd918c48bbc278a4612176548.pdf) | [Video🎬](https://drive.google.com/drive/folders/1O6KeJ9fI31ZPH6EkO9kTF67BkV4D244S?usp=sharing)
 
 ## 🚀 Get Started
 ### **Installation**
