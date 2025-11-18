@@ -22,10 +22,10 @@ Download [finetuned Shap-E](https://huggingface.co/datasets/tiange/Cap3D/resolve
 
 ## Citation
 
-'''
+``` bibtex
 @inproceedings{liwalking,
   title={Walking the Schr{\"o}dinger Bridge: A Direct Trajectory for Text-to-3D Generation},
   author={Li, Ziying and Lu, Xuequan and Zhao, Xinkui and Cheng, Guanjie and Deng, Shuiguang and Yin, Jianwei},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
-'''
+```
